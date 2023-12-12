@@ -55,7 +55,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/SummitAnthony/CSE370-Course-Management-System.git
+   git clone https://github.com/ahanaftanvir40/CSE370-Course-Management-System.git
    ```
 
 2. **Set up your local server environment (e.g., XAMPP, WAMP).**
@@ -66,7 +66,7 @@ To run the project locally, follow these steps:
 
 5. **Open the project in your web browser.**
 
-This Project was mainly done by me and my group mate **Ahanaf Tanvir - [GitHub Profile](https://github.com/ahanaftanvir40)**
+This Project was mainly done by me and my group mate **Summit Anthony - [GitHub Profile](https://github.com/SummitAnthony)**
 
 Feel free to contribute to the project by creating issues, suggesting improvements, or submitting pull requests.
 
